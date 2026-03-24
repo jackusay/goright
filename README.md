@@ -1,0 +1,2 @@
+# goright
+ai skill
